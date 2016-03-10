@@ -37,12 +37,12 @@ SVD.jpg
 How many non zero element in $\Sigma$?
 - All the red,green and,blue $\Sigma$ are non zero elements
 
-HighResolution.jpg
+HighResolution.png
 
 When the resolution is better, $\Sigma_{200}$
 
 
-LowResolution.jpg
+LowResolution.png
 
 When the resolution is lower , $\Sigma_{30}$
 
